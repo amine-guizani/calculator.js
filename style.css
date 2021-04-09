@@ -1,0 +1,97 @@
+* {
+  box-sizing: 0;
+  padding: 0;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  color: rgb(218, 218, 218);
+  margin-bottom: 10%;
+}
+
+body {
+  background: #0f2027;
+  background: -webkit-linear-gradient(to right, #2c5364, #203a43, #0f2027);
+  background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
+}
+
+.first-r,
+.sec-r,
+.third-r,
+.four-r,
+.five-r {
+  margin-bottom: 5px;
+}
+
+.result {
+  background-color: rgb(255, 255, 255);
+}
+
+.container {
+  width: 300px;
+}
+
+.wrap {
+  padding-top: 300px;
+  height: 30vh;
+  width: 100%;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
+input {
+  padding: 25px;
+  color: rgb(218, 218, 218);
+  font-size: 1rem;
+  cursor: pointer;
+  width: 70px;
+  background-color: rgb(41, 41, 41);
+  border: none;
+  outline: none;
+  border-radius: 4px;
+}
+
+input[type="text"] {
+  background-color: rgb(47, 51, 50);
+  width: 169px;
+}
+
+input[type="button"]:hover {
+  background-color: rgb(160, 160, 160);
+  color: rgb(218, 218, 218);
+}
+
+.clear {
+  color: rgb(218, 218, 218);
+  background-color: rgb(133, 133, 133);
+}
+
+.equal {
+  color: rgb(218, 218, 218);
+  background-color: rgb(133, 133, 133);
+}
+
+.op {
+  color: rgb(218, 218, 218);
+  background-color: rgb(133, 133, 133);
+}
+
+.copy {
+  margin-bottom: 0;
+  text-align: center;
+  padding-top: 325px;
+  font-size: small;
+  color: rgb(218, 218, 218);
+}
+
+a {
+  text-decoration: none;
+  border: none;
+  color: rgb(160, 160, 160);
+}
