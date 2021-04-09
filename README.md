@@ -1,5 +1,3 @@
 # calculator.js
 Simple calculator using HTML, CSS and Javascript
-
-![calculator.js](https://ibb.co/qYtSLPy)
-
+<a href="https://ibb.co/qYtSLPy"><img src="https://i.ibb.co/1GDgYwv/calc.png" alt="calc" border="0"></a>
