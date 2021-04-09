@@ -45,7 +45,6 @@ div.addEventListener("click", function () {
 
 eq.addEventListener("click", function () {
   operand_2 = parseFloat(display.value);
-  document.getElementById("flt_dot").disabled = false;
 
   switch (operator) {
     case 1:
