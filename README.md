@@ -1,3 +1,4 @@
 # calculator.js
 Simple calculator using HTML, CSS and Javascript
-<a href="https://ibb.co/qYtSLPy"><img src="https://i.ibb.co/1GDgYwv/calc.png" alt="calc" border="0"></a>
+<br/>
+<a href="https://ibb.co/qYtSLPy"><img src="https://i.ibb.co/1GDgYwv/calc.png" alt="calc" border="0" style="align-item: center;"></a>
